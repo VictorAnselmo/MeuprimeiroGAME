@@ -1,2 +1,2 @@
 # MeuprimeiroGAME
-https://VictorAnselmo/MeuprimeiroGAME.giyhub.io
+https://VictorAnselmo/MeuprimeiroGAME.github.io
