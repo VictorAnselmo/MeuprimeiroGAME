@@ -1,2 +1,2 @@
 # MeuprimeiroGAME
-https://VictorAnselmo.com/MeuprimeiroGAME.giyhub.io
+https://VictorAnselmo/MeuprimeiroGAME.giyhub.io
