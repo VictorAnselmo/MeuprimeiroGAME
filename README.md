@@ -1,2 +1,2 @@
 # MeuprimeiroGAME
-https://VictorAnselmo.github.io/INDEX.html
+https://VictorAnselmo.github.io/Meuprimeirogame
